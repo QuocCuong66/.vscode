@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Chúc mừng sinh nhật — Trái tim rơi</title>
+  <title>Chúc mừng sinh nhật Vân Anh 18/10/2025</title>
   <meta name="description" content="Trang chúc mừng sinh nhật tông hồng với trái tim nhỏ rơi xung quanh, tối giản chỉ 1 nút.">
   <style>
     /* ===== Reset & base ===== */
@@ -212,16 +212,16 @@
     <div class="grid">
       <!-- LEFT: Big heart button -->
       <div class="heart-wrap" aria-hidden="false">
-        <button id="mainBtn" class="btn-heart" aria-pressed="false" aria-label="Nhấn trái tim để hiện lời chúc">
+        <button id="mainBtn" class="btn-heart" aria-pressed="false" aria-label="Nhấn trái tim để hiện lời chúc của Quốc Cường">
           <span class="emoji">💗</span>
         </button>
-        <div class="small-note">Nhấn 1 lần để mở lời chúc</div>
+        <div class="small-note">Nhấn dô đâyy</div>
       </div>
 
       <!-- RIGHT: Message -->
       <div class="message" id="messageCard" aria-live="polite">
         <div class="title" id="main-title">Chúc mừng sinh nhật!</div>
-        <div class="subtitle">Gửi đến người bạn thân yêu</div>
+        <div class="subtitle">Gửi đến EMiu của toii</div>
 
         <div id="messageText" class="text">
           Nhấn vào trái tim bên trái để nhận lời chúc và xem hiệu ứng lung linh ✨
@@ -239,7 +239,7 @@
 
   </div>
 
-  <div class="tag">Thiết kế bởi ChatGPT — Hồng ngọt ngào 💖</div>
+  <div class="tag">Thiết kế bởi Quốc Cường 💖</div>
 
   <!-- Optional audio: nếu muốn đổi, thay URL hoặc bỏ dòng <audio> -->
   <audio id="bgAudio" src="https://cdn.pixabay.com/download/audio/2021/08/08/audio_3d5f7b1b5d.mp3?filename=happy-birthday-ambient-110691.mp3" preload="auto"></audio>
@@ -394,7 +394,7 @@
 
         // toggle message only first click opens
         if(!clicked){
-          messageText.textContent = '💖 Chúc bạn một ngày sinh nhật thật ngọt ngào và đáng nhớ! Mong mọi điều tốt lành và nụ cười luôn ở bên bạn. 💫';
+          messageText.textContent = '💖 Chúc em sinh nhật thật là zui zui , sống hạnh phúc , ngày càng xinh đẹp , học giỏi , siêng năng chăm chỉ cần mẫn biết quan tâm yêu bản thân nhiều dô , yêu Quốc Cường nhìu nhìu hơn nữa nhee. 💫';
           // sound: try play (user gesture present)
           try { audio.currentTime = 0; audio.play().catch(()=>{}); } catch(e){}
           // effects
