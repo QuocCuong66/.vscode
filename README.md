@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Chúc mừng sinh nhật Vân Anh 18/10/2025</title>
-  <meta name="description" content="Trang chúc mừng sinh nhật tông hồng với trái tim nhỏ rơi xung quanh, tối giản chỉ 1 nút.">
+  <meta name="description" content="Chúc mừng sinh nhật Vân Anh - Emiu của anh :))))">
   <style>
     /* ===== Reset & base ===== */
     :root{
@@ -220,14 +220,14 @@
 
       <!-- RIGHT: Message -->
       <div class="message" id="messageCard" aria-live="polite">
-        <div class="title" id="main-title">Chúc mừng sinh nhật!</div>
+        <div class="title" id="main-title">Chúc mừng sinh nhật nhaa</div>
         <div class="subtitle">Gửi đến EMiu của toii</div>
 
         <div id="messageText" class="text">
-          Nhấn vào trái tim bên trái để nhận lời chúc và xem hiệu ứng lung linh ✨
+          Nhấn vào trái tim bên trái✨
         </div>
 
-        <div class="small-muted">Trang nhẹ, trong trẻo & tối giản — chỉ 1 nút duy nhất.</div>
+        <div class="small-muted">Trang này được tạo ra dành riêng cho Vân Anh - người dễ thưn nhất thế gian này kkkk:)))))</div>
       </div>
     </div>
 
