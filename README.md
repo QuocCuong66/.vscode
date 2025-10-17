@@ -188,7 +188,7 @@ padding:8px 14px;border-radius:999px;border:1px solid rgba(255,255,255,0.6);font
     clickCount++;
     showBurst();
     if(clickCount===1){
-      typeText(msg,'💖 Chúc em sinh nhật thật vui, hạnh phúc, xinh đẹp và yêu Quốc Cường nhiều hơn nhee 💫');
+      typeText(msg,'💖 💖 Chúc em sinh nhật thật là zui zui , sống hạnh phúc , ngày càng xinh đẹp , học giỏi , siêng năng chăm chỉ cần mẫn biết quan tâm yêu bản thân nhiều dô , yêu Quốc Cường nhìu nhìu hơn nữa nhee. 💫 💫');
       audio.currentTime=0;audio.play().catch(()=>{});
     }else if(clickCount===2){
       task.style.display='block';
